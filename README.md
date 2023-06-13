@@ -5,6 +5,6 @@ Inspired by the world's saddest six word story:
 >
 > \-Ernest Hemingway
 
-Website with a little about me in lieu of LinkedIn.
+Website! Had fun making assets
 
 Made with sveltekit <3
