@@ -1,0 +1,29 @@
+<svg viewBox="-5 -5 10 10" stroke-width="0.1" stroke-linejoin="round" stroke="white" fill="white">
+        <g transform="translate(-0.25 -.8) rotate(15) scale(1.1)" opacity="0.3">
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(0) translate(0 -2.4)"/> 
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(60) translate(0 -2.4)"/>
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(120) translate(0 -2.4)"/>
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(180) translate(0 -2.4)"/>
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(240) translate(0 -2.4)"/>
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(300) translate(0 -2.4)"/>
+            <circle cx="0" cy="0" r="2.2" stroke-width="1" fill="none"/>
+        </g>
+        <g transform="translate(2.8 0) rotate(-4) scale(0.5)" opacity="0.6">
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(0) translate(0 -2.4)"/> 
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(60) translate(0 -2.4)"/>
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(120) translate(0 -2.4)"/>
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(180) translate(0 -2.4)"/>
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(240) translate(0 -2.4)"/>
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(300) translate(0 -2.4)"/>
+            <circle cx="0" cy="0" r="2" stroke-width="1.3" fill="none"/>
+        </g>
+        <g transform="translate(-0.5 2.3) rotate(25) scale(0.65)" opacity="0.9" >
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(0) translate(0 -2.5)"/> 
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(60) translate(0 -2.5)"/> 
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(120) translate(0 -2.5)"/> 
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(180) translate(0 -2.5)"/> 
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(240) translate(0 -2.5)"/> 
+            <path d="M -0.75 -1 h 1.5 l 0.25 1 h -2Z" transform="rotate(300) translate(0 -2.5)"/> 
+            <circle cx="0" cy="0" r="2.2" stroke-width="1.1" fill="none"/>
+        </g>
+    </svg>

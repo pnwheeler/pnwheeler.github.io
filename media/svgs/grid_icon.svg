@@ -1,0 +1,11 @@
+<svg viewBox="-5 -5 10 10" fill="white" stroke-linejoin="round" stroke="white" stroke-linecap="round">
+    <path d="M -1.75 -4 h 3.5"  stroke-width="0.4" opacity="0.5"/>
+    <path d="M -2.5 -3.2 h 5"  stroke-width="0.6" opacity="0.7"/>
+    <rect width="7" height="5.5" x="-3.5" y="-2.5" rx="0.5" opacity="0.9" stroke-width="0.2"/>
+    <!-- Grid -->
+    <g stroke="none" fill="black">
+        <rect width="3" height="4.5" y="-2" x="-3" rx="0.2" opacity="0.4"/>
+        <rect width="2.75" height="2.5" y="-2" x="0.25" rx="0.2" opacity="0.3"/>
+        <rect width="2.75" height="1.75" y="0.75" x="0.25" rx="0.2" opacity="0.5"/>
+    </g>
+</svg>
