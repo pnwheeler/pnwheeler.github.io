@@ -1,0 +1,3 @@
+import{R as i,Q as b}from"./scheduler.69e1f75a.js";function x(t){return--t*t*((1.70158+1)*t+1.70158)+1}function g(t){const n=t-1;return n*n*n+1}function M(t){return Math.sin(-13*(t+1)*Math.PI/2)*Math.pow(2,-10*t)+1}function _(t){return-t*(t-2)}function q(t,{delay:n=0,duration:s=400,easing:o=b}={}){const a=+getComputedStyle(t).opacity;return{delay:n,duration:s,easing:o,css:c=>`opacity: ${c*a}`}}function C(t,{delay:n=0,duration:s=400,easing:o=g,x:a=0,y:c=0,opacity:f=0}={}){const r=getComputedStyle(t),e=+r.opacity,y=r.transform==="none"?"":r.transform,p=e*(1-f),[l,m]=i(a),[$,d]=i(c);return{delay:n,duration:s,easing:o,css:(u,O)=>`
+			transform: ${y} translate(${(1-u)*l}${m}, ${(1-u)*$}${d});
+			opacity: ${e-p*O}`}}export{C as a,x as b,g as c,M as e,q as f,_ as q};
